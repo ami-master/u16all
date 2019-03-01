@@ -13,7 +13,6 @@ services:
   - selenium #3.141.59
   - sqlite #3.22.0
 
-
 runtime:
   - nodePool: default_node_pool
   - nodePool: dynamic__x86_64__CentOS_7__c4_large
